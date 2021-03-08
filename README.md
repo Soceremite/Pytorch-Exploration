@@ -5,8 +5,8 @@
 使用`Anaconda`安装python环境
 
 ## requirement 
-pytorch
-tqdm
-opencv-python
-matplotlib
-ipywidgets
+* pytorch
+* tqdm
+* opencv-python
+* matplotlib
+* ipywidgets
